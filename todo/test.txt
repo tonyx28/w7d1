@@ -1,0 +1,15 @@
+
+const newTodos = [
+{
+  id: 1,
+  title: "run to the mall",
+  body: "with soap",
+  done: false
+},
+{
+  id: 2,
+  title: "run in circles",
+  body: "with shampoo",
+  done: true
+}
+]
